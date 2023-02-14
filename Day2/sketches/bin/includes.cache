@@ -1,0 +1,77 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "f:\\Work\\Embedded\\Courses\\FreeRTOS\\Day2\\sketches\\bin\\sketch\\two_tasks.ino.cpp",
+    "Include": "Arduino_FreeRTOS.h",
+    "Includepath": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src"
+  },
+  {
+    "Sourcefile": "f:\\Work\\Embedded\\Courses\\FreeRTOS\\Day2\\sketches\\bin\\sketch\\two_tasks.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "f:\\Work\\Embedded\\Courses\\FreeRTOS\\Day2\\sketches\\bin\\sketch\\two_tasks.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src\\event_groups.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src\\heap_3.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src\\list.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src\\port.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src\\queue.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src\\stream_buffer.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src\\tasks.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src\\timers.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\mahmo\\Documents\\Arduino\\libraries\\FreeRTOS-10.5.0-0\\src\\variantHooks.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

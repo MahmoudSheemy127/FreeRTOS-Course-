@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "SchedulingSketch2\\two_tasks.ino",
+    "output": "./bin"
+}
